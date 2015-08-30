@@ -1,0 +1,21 @@
+{
+  "name": "froala-embed-tweet",
+  "version": "1.0.0",
+  "authors": [
+    "Alex Crawford <alex@kickdigital.co.uk>"
+  ],
+  "description": "A simple Froala Editor plugin for embedding content from Twitter",
+  "main": "src/froala-embed-tweet.js",
+  "keywords": [
+    "froala"
+  ],
+  "license": "MIT",
+  "homepage": "http://gitlab.kickdigital.co.uk/kickdigital/froala-embed-tweet",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
