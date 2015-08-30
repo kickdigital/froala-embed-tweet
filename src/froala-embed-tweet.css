@@ -1,0 +1,12 @@
+.froala-tweet-popup textarea {
+	width: 250px !important;
+}
+
+.froala-tweet-popup .f-popup-line {
+	padding: 0 !important;
+	margin: 7px !important;
+}
+
+.froala-tweet-popup .f-popup-line button {
+	float: right !important;
+}
